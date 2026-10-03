@@ -1,0 +1,17 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+coverage.xml
+htmlcov/
+instance/
+server/instance/
+client/node_modules/
+client/dist/
+server/migrations/
+*.sqlite3
+*.db
+.vscode/
+instance/
